@@ -6,3 +6,5 @@ This website enables the users to identify different types of triangles by input
 
 CREATOR
 My name is Mark Mwago. I am a programming student at Moringa School in Nairobi.
+
+Feel free to comment on my website and only offer constructive feedback.
